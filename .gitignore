@@ -1,0 +1,8 @@
+/vendor
+/processed_files
+/temp_extract_*
+*.log
+.DS_Store
+Thumbs.db
+.vscode
+*.code-workspace
